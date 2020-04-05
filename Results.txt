@@ -1,0 +1,4 @@
+Model         Accuracy     Processing Time
+
+KNN           69.8 %        1.5 sec
+Neural Net     55 %         44 sec (100 epoch)
